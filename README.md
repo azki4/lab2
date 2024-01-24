@@ -1,2 +1,2 @@
 # lab2
-This is for lab 2
+This is a folder for lab 2
